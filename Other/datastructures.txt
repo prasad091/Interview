@@ -1,0 +1,20 @@
+Big O Notions
+Primitives
+Array
+String
+Linked List
+Stack
+Queue
+Tree
+Binary Tree
+Heap
+HashTables
+Searching (Deapth First Search, Breadth First Search)
+Sorting
+Recursion & Backtracking
+Dynamic Programming
+Graphs
+Greedy Algorithm
+
+
+Important (Linked List,Tree,Binary Tree,Binary Search Tree,Recurssion & BackTracking,Dynamic Programming)

@@ -1,0 +1,104 @@
+1.  what is activity ?
+2.  How Activity Works?
+3.  Lifecycle of activity and perform?
+4.  What is SavedInstanceBundle or Bundle ?
+5.  What Android Screen Orientation?
+6.  SetContentView
+7.  Layout XML parsing andorid ?
+8.  what is AAPT?
+9.  what is LayoutInflater?
+10. How Layout Inflator works
+11. Fragment and Fragment Lifecycle
+12. How Fragment works and Where I use?
+13. What is View?
+14. what is View LifeCycle (View Traverals) Measure, Layout, Draw, Repeat
+15. Measure(),Layout() etc., 
+16. ViewGroup andorid 
+17. CustomView Andorid
+18. Ondraw,canvas
+19. TouchListners, Geastures, OnclickListners 
+20. Hanlder,Looper,thread,HandlerThread,Scheduler,Timer
+21. Services,IntentService,JobIntentService
+22. Broadcast Receiver,Custom Broadcast Receivers,Local broadcast receivers 
+23. Notifacction,file system,Stroage,sensors
+24. Understanding the rendering pipeline
+25. Context (ApplicationContext,ActivityContext)
+26. what is RecyclerView (ListView)
+27. How RecylerView Works
+28. what is LayoutManger ?
+29. What is Adapter 
+30  How it works in Adapter : OnBindViewHolder,OnCreateViewHolder,ItemViewItype,ViewHolder,ItemOnClick
+31. Dialogs (Different type Dialogs)
+32. Toolbar: (SearchView)
+33. TextView,ImageView (Widgets and How Widgets works)
+34. Android Font Render
+35. Understanding Span
+36. What is Manifest?
+# Intent 
+# IntentFiler (action,category,Deeplink (BroWsable)) 
+# Meta Data
+# what is File Provider 
+# Receivers
+# Permission 
+# Custom User Permission
+# LaunchMode
+37. Knowing what impacts the startup time of an app
+38. What is Content Provider? How Content Provider Works
+39. What is Android Resource ?
+40. what is R8 and D8
+41. How to save or maintain State in android?
+42. 64K method DEX,Slices 
+43. what is WorkManager ?
+44. what is Alaram Manager ?
+45. How Android System Services Works? 
+47. Style,Themes,MotionLayouts,Constrainlayout
+48. BitMap Image, Png Image,Jpeg Image, 9-patch image, Vector 
+49. Serilization and Parcelable ?
+
+
+Libray and Language
+# Kotlin
+# RxJava (Reactive Programming)
+# Kotlin Coroutines 
+# Dagger  (Dependency Injection)
+# Retrofit
+# Architecture Components 
+# Firebase 
+# Dynamic Features 
+# Navigation Components 
+# DataBinding (OneWay Binding,Two Way Binding)
+
+# Material Design 
+Design Thinking
+
+# Git 
+# git internals 
+# Ci and CD
+# Dokka Documentation
+
+Gradle 
+# How to improve build time
+# Flavours
+# Progurad 
+# BuildSrc: DSL
+# Use Safe Args to pass data with type safety
+
+TDD
+# Espresso
+# Junit
+# Mockito
+# Roboelectric
+# A/B Testing 
+
+
+
+
+
+
+
+
+
+
+
+
+

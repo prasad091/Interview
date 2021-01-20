@@ -1,0 +1,9 @@
+Any app on your phone / computer that you think could be done slightly better (or better for your purpose).
+A to-do list that syncs with Google Spreadsheets and Evernote (using their APIs)
+An "idea tracker" mobile app to let you very quickly jot down a startup idea and share the list -- or partial list -- with a friend. Syncing with Google Spreadsheets is key.
+A merged registry that creates a merged view of multiple registries. There are many people doing unified [baby / wedding] registries, but they have a major weakness in that they don't show if someone has purchased an item. This would allow someone to create many registries with just one view / link to give out to people.
+A chat widget that allows "branching" of conversations. You know how you'll be in the middle of a conversation with someone and then another topic would come up? What if you could branch that part out to a new conversation?
+Chrome extension to overlay Yelp reviews on OpenTable <--- do this. pretty please? I want this.
+"Forum on the Fly" -- be able to create a very quick forum on the fly by just sending a link, supporting conversation threading and other things.
+Online polls that don't suck / get covered with ads. Think Doodle for polls.
+Social book recommender -- use Amazon receipts in email (this can be done -- TripIt is able to scan gmail) or screen scrape Amazon past purchases to know what you've previously purchased. Then let you see what books have been most purchased by your friends. SO many people I know want this.
